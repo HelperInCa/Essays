@@ -24,7 +24,7 @@
 - [HandShaker](http://www.smartisan.com/apps/handshaker) Mac与安卓手机互联
   - [Itsycal](https://www.mowglii.com/itsycal/) 菜单栏上的日历	
 - [Irvue](https://irvue.tumblr.com/) wallpapers from Unsplash
-- [iPic](https://en.toolinbox.net/iPic/) 上传到图床, 支持Markdown
+- [uPic](https://github.com/gee1k/uPic) 免费, 上传到图床, 支持Markdown
 - [Time out](https://www.dejal.com/timeout/) 定时休息提醒
 - [DBeaver](https://dbeaver.io/) SQL 客户端, 支持主流数据库(学生可免费用商业版)
 
@@ -84,7 +84,7 @@
 
 - [Typora](https://www.typora.io/) Markdown editor featuring seamless live preview
 
-  - 支持ipic上传到图床
+  - 支持ipic/upic上传到图床
   > 性能欠佳, 卡顿时暂用vs code替代
   
   
