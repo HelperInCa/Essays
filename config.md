@@ -9,6 +9,7 @@
 - [音视频](#%E9%9F%B3%E8%A7%86%E9%A2%91)
 - [阅读写作](#%E9%98%85%E8%AF%BB%E5%86%99%E4%BD%9C)
 - [下载工具](#%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
+- [Chrome 插件](#chrome-%E6%8F%92%E4%BB%B6)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -20,13 +21,14 @@
   - [个人配置](https://github.com/HelperInCa/notes/blob/master/modules/hotkey.md#alfred)
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) 按住 ⌘ 快速提醒快捷键
 - [Background music](https://github.com/kyleneideck/BackgroundMusic) 独立调节各App音量, 录音
-- [Keka](https://www.keka.io/) 免费文件解压
+- [Keka](https://www.keka.io/) 免费, 解压缩
 - [HandShaker](http://www.smartisan.com/apps/handshaker) Mac与安卓手机互联
   - [Itsycal](https://www.mowglii.com/itsycal/) 菜单栏上的日历	
 - [Irvue](https://irvue.tumblr.com/) wallpapers from Unsplash
 - [uPic](https://github.com/gee1k/uPic) 免费, 上传到图床, 支持Markdown
 - [Time out](https://www.dejal.com/timeout/) 定时休息提醒
 - [DBeaver](https://dbeaver.io/) SQL 客户端, 支持主流数据库(学生可免费用商业版)
+- [1password](https://1password.com/zh-cn/) 密码管理器, from one password to "1password"!
 
 # 开发
 
@@ -136,3 +138,31 @@ $ you-get 'https://www.youtube.com/watch?v=jNQXAC9IVRw'
     ```
 
  
+
+# Chrome 插件
+
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) 使用Vim快捷键操作Chrome, 告别鼠标!
+
+- [沙拉查词](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg?hl=zh-CN) 划词翻译
+
+- [Adblock](https://www.getadblock.com/) 
+
+  > 部分网站要求关了Adblock才能打开
+
+- [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) 检查语法
+
+- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=zh-CN) Make JSON easy to read
+
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-CN) 将所有标签页转换成一个列表。当您需要再次访问这些标签页时，可以单独或全部恢复它们。
+
+- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN) 让GitHub变成IDE一样容易导航
+
+- [Magic Enhancer For YouTube](https://autohdforyoutube.com/) Auto HD, Video Ad Blocking, Cinema Mode and More
+
+- [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN) 管理和切换多个代理设置(翻过伟大的墙)
+
+- [Checker Plus for Gmail](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj?hl=zh-CN) 不用打开Gmail就能管理, 支持多账户
+
+- [Gmail Sender Icons](https://chrome.google.com/webstore/detail/gmail-sender-icons/jniljaamodclkmphgkgkooplflhkadpg) 显示邮件发送者域名和logo
+
+- [Simple Gmail Notes](https://chrome.google.com/webstore/detail/simple-gmail-notes/jfjkcbkgjohminidbpendlodpfacgmlm) 给邮件添加备注, 存在自己的Google Drive
