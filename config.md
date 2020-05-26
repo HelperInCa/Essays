@@ -29,7 +29,7 @@
 
 - [HandShaker](http://www.smartisan.com/apps/handshaker) Mac与安卓手机互联
   
-  - [Itsycal](https://www.mowglii.com/itsycal/) 菜单栏上的日历	
+- [Itsycal](https://www.mowglii.com/itsycal/) 菜单栏上的日历	
   
 - [Irvue](https://irvue.tumblr.com/) wallpapers from Unsplash
 
