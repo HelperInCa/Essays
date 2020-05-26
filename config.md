@@ -18,16 +18,29 @@
 # 实用工具
 
 - [Alfred](https://www.alfredapp.com/) Mac必备效率神器
+  
   - [个人配置](https://github.com/HelperInCa/notes/blob/master/modules/hotkey.md#alfred)
+  
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) 按住 ⌘ 快速提醒快捷键
+
 - [Background music](https://github.com/kyleneideck/BackgroundMusic) 独立调节各App音量, 录音
+
 - [Keka](https://www.keka.io/) 免费, 解压缩
+
 - [HandShaker](http://www.smartisan.com/apps/handshaker) Mac与安卓手机互联
+  
   - [Itsycal](https://www.mowglii.com/itsycal/) 菜单栏上的日历	
+  
 - [Irvue](https://irvue.tumblr.com/) wallpapers from Unsplash
+
 - [uPic](https://github.com/gee1k/uPic) 免费, 上传到图床, 支持Markdown
-- [Time out](https://www.dejal.com/timeout/) 定时休息提醒
+
+- ~~[Time out](https://www.dejal.com/timeout/) 定时休息提醒~~
+
+  [stretchly](https://github.com/hovancik/stretchly) 开源免费
+
 - [DBeaver](https://dbeaver.io/) SQL 客户端, 支持主流数据库(学生可免费用商业版)
+
 - [1password](https://1password.com/zh-cn/) 密码管理器, from one password to "1password"!
 
 # 开发
@@ -160,6 +173,10 @@ $ you-get 'https://www.youtube.com/watch?v=jNQXAC9IVRw'
 - [Magic Enhancer For YouTube](https://autohdforyoutube.com/) Auto HD, Video Ad Blocking, Cinema Mode and More
 
 - [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN) 管理和切换多个代理设置(翻过伟大的墙)
+
+- [h264ify](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal) 将VP8/9 改成H.264解码(不能VP9硬解, cpu占用高!)
+
+  缺点: 无法看1080p以上的视频
 
 - [Checker Plus for Gmail](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj?hl=zh-CN) 不用打开Gmail就能管理, 支持多账户
 
