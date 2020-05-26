@@ -141,7 +141,7 @@ $ you-get 'https://www.youtube.com/watch?v=jNQXAC9IVRw'
     Size:       0.51 MiB (536583 Bytes)
   
     Downloading tumblr_mxhg13jx4n1sftq6do1_1280.png ...
-  100.0% (  0.5/0.5  MB) ├████████████████████████████████████████┤[1/1]   22 MB/s
+    100.0%(0.5/0.5MB)├████████████████████████████████████████┤[1/1]22MB/s   
     ```
   
   - Search on Google
