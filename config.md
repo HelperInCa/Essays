@@ -109,7 +109,7 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) download videos from YouTube and a few [more sites](http://ytdl-org.github.io/youtube-dl/supportedsites.html)
 
   ```shell
-$ youtube-dl https://www.youtube.com/watch?v=jNQXAC9IVRw
+  $ youtube-dl https://www.youtube.com/watch?v=jNQXAC9IVRw
   ```
 
   - configuration `~/.config/youtube-dl/config`
@@ -119,7 +119,7 @@ $ youtube-dl https://www.youtube.com/watch?v=jNQXAC9IVRw
 - [you-get](https://github.com/soimort/you-get) download media contents from web
 
   ```shell
-$ you-get 'https://www.youtube.com/watch?v=jNQXAC9IVRw'
+  $ you-get 'https://www.youtube.com/watch?v=jNQXAC9IVRw'
   ```
 
   - before downloading, use `-i` to see all the quality and formats 
