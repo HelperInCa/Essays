@@ -168,7 +168,7 @@
 
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-CN) 将所有标签页转换成一个列表。当您需要再次访问这些标签页时，可以单独或全部恢复它们。
 
-- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN) 让GitHub变成IDE一样容易导航
+- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN) 让GitHub项目以树状显示
 
 - [Magic Enhancer For YouTube](https://autohdforyoutube.com/) Auto HD, Video Ad Blocking, Cinema Mode and More
 
