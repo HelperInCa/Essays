@@ -100,7 +100,9 @@
 - [Typora](https://www.typora.io/) Markdown editor featuring seamless live preview
 
   - 支持ipic/upic上传到图床
-  > 性能欠佳, 卡顿时暂用vs code替代
+  > 性能欠佳
+
+- [语雀](https://www.yuque.com/) 阿里的云端知识库(很多功能. 目前我只是用来写Markdown文档)
   
   
 
