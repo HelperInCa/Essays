@@ -102,7 +102,7 @@
   - 支持ipic/upic上传到图床
   > 性能欠佳
 
-- [语雀](https://www.yuque.com/) 阿里的云端知识库(很多功能. 目前我只是用来写Markdown文档)
+- [语雀](https://www.yuque.com/) 阿里的云端知识库(很多功能. 目前我只是用来写Markdown文档, 考虑做博客)
   
   
 
@@ -174,7 +174,7 @@
 
 - [Magic Enhancer For YouTube](https://autohdforyoutube.com/) Auto HD, Video Ad Blocking, Cinema Mode and More
 
-- [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN) 管理和切换多个代理设置(翻过伟大的墙)
+- [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN) 管理和切换多个代理设置
 
 - [h264ify](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal) 将VP8/9 改成H.264解码(不能VP9硬解, cpu占用高!)
 
@@ -185,3 +185,4 @@
 - [Gmail Sender Icons](https://chrome.google.com/webstore/detail/gmail-sender-icons/jniljaamodclkmphgkgkooplflhkadpg) 显示邮件发送者域名和logo
 
 - [Simple Gmail Notes](https://chrome.google.com/webstore/detail/simple-gmail-notes/jfjkcbkgjohminidbpendlodpfacgmlm) 给邮件添加备注, 存在自己的Google Drive
+
