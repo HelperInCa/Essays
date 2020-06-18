@@ -102,7 +102,9 @@
   - 支持ipic/upic上传到图床
   > 性能欠佳
 
-- [语雀](https://www.yuque.com/) 阿里的云端知识库(很多功能. 目前我只是用来写Markdown文档, 考虑做博客)
+- [语雀](https://www.yuque.com/) 阿里的云端知识库(很多功能. 目前我只是用来写Markdown文档, 可以写专栏)
+  
+- [Stickies](https://support.apple.com/zh-cn/guide/stickies/welcome/mac) MacOS便签
   
   
 
