@@ -6,6 +6,7 @@
 - [开发](#%E5%BC%80%E5%8F%91)
   - [命令行](#%E5%91%BD%E4%BB%A4%E8%A1%8C)
   - [实用工具](#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7-1)
+  - [服务](#%E6%9C%8D%E5%8A%A1)
 - [音视频](#%E9%9F%B3%E8%A7%86%E9%A2%91)
 - [阅读写作](#%E9%98%85%E8%AF%BB%E5%86%99%E4%BD%9C)
 - [下载工具](#%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
@@ -77,6 +78,10 @@
 
 - [Dash](https://kapeli.com/dash) API 离线文档
 - [iTerm2](http://www.iterm2.com/) 替代Terminal
+
+## 服务
+
+- [jsDelivr](https://www.jsdelivr.com/) 免费公共CDN, 可加速npm, GitHub, WordPress
 
 # 音视频
 
