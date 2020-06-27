@@ -15,7 +15,7 @@
 
   修改hosts, 绕过国内dns解析:
 
-  1. 在[这](https://www.ipaddress.com/)上面查这三个域名的IP: `github.com` `github.global.ssl.fastly.net` `assets-cdn.github.com`
+  1. 查这三个域名的IP并测速: `github.com` `github.global.ssl.fastly.net` `assets-cdn.github.com`
 
   2. `sudo vi /etc/hosts`
   
