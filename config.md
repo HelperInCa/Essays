@@ -178,6 +178,8 @@
 
 - [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN) 管理和切换多个代理设置
 
+  > [GFWList](https://cdn.jsdelivr.net/gh/Loukky/gfwlist-by-loukky@master/gfwlist.txt) 
+
 - [h264ify](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal) 将VP8/9 改成H.264解码(不能VP9硬解, cpu占用高!)
 
   缺点: 无法看1080p以上的视频
