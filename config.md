@@ -97,7 +97,7 @@
 
       ```shell
       # 更新youtube-dl
-      $ youtube-dl -U
+      $ sudo youtube-dl -U
       ```
 
 # 阅读写作
