@@ -15,9 +15,14 @@
 
   修改hosts, 绕过国内dns解析:
 
-  1. 查这些域名的IP并测速: `github.com` `github.global.ssl.fastly.net`
-  `assets-cdn.github.com`
+  1. `ping`这些域名的IP并测速: `github.com` `github.global.ssl.fastly.net`
+    `assets-cdn.github.com`
+  
   2. `sudo vi /etc/hosts`
+  
+  3. 刷新DNS缓存
+  
+     `sudo killall -HUP mDNSResponder`
   
   
   
