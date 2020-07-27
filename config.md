@@ -44,6 +44,8 @@
 
 - [1password](https://1password.com/zh-cn/) 密码管理器, from one password to "1password"!
 
+- [Text Scanner](https://textscanner.gitbook.io/project/) OCR. 手写体, 表格, 身份证, 发票等识别. 
+
 # 开发
 
 ## 命令行
