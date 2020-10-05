@@ -16,15 +16,27 @@
   修改hosts, 绕过国内dns解析:
 
   1. `ping`这些域名的IP并测速: `github.com` `github.global.ssl.fastly.net`
-    `assets-cdn.github.com`
-  
+      `assets-cdn.github.com`
+
   2. `sudo vi /etc/hosts`
-  
+
   3. 刷新DNS缓存
-  
+
      `sudo killall -HUP mDNSResponder`
+
+- 手动切换集/独显
+
+  ```shell
+  sudo pmset -a GPUSwitch 0
+  ```
+  
+  > 0，强制使用核显，
+  >
+  > 1， 强制使用独显，
+  >
+  > 2 ，自动切换图形卡
   
   
-  
+
 
 
