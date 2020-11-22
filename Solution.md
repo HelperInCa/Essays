@@ -30,15 +30,24 @@
   sudo pmset -a GPUSwitch 0
   ```
   
-  > 0，强制使用核显，
+  > 0, 强制使用核显，
   >
-  > 1， 强制使用独显，
+  > 1, 强制使用独显，
   >
-  > 2 ，自动切换图形卡
+  > 2, 自动切换图形卡
   
   
 
 - 计划中的时间节点要落实, 及时沟通进展(不管进度如何)
 
-    每件事都有时间效应的, 不需要考虑别人烦不烦, 及时暴露风险
+    每件事都有时间效应的, 及时暴露风险
+
+- ~~关闭 Mac 系统更新~~
+
+    ```shell
+    sudo softwareupdate --ignore "macOS Catalina"
+    defaults write com.apple.systempreferences AttentionPrefBundleIDs 0 && killall Dock 
+    ```
+    
+
 
