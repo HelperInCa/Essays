@@ -45,7 +45,7 @@
 - ~~关闭 Mac 系统更新~~
 
     ```shell
-    sudo softwareupdate --ignore "macOS Catalina"
+    sudo softwareupdate --ignore "macOS Big Sur"
     defaults write com.apple.systempreferences AttentionPrefBundleIDs 0 && killall Dock 
     ```
     
