@@ -50,4 +50,8 @@
     ```
     
 
+- Another app is currently holding the yum lock
+
+    yum在锁定状态中。
+    可以通过强制关掉yum进程：`$rm -f /var/run/yum.pid`
 
