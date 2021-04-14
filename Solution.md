@@ -53,5 +53,13 @@
 - Another app is currently holding the yum lock
 
     yum在锁定状态中。
-    可以通过强制关掉yum进程：`$rm -f /var/run/yum.pid`
+    可以通过强制关掉yum进程：`rm -f /var/run/yum.pid`
+
+- 环境变量
+
+    `vi /etc/profile`
+
+    `export PATH=$PAHT:<PATH 1>:<PATH 2>:<PATH 3>:--------:< PATH n >`
+
+    `source /etc/profile`
 
