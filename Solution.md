@@ -49,7 +49,6 @@
     defaults write com.apple.systempreferences AttentionPrefBundleIDs 0 && killall Dock 
     ```
     
-
 - Another app is currently holding the yum lock
 
     yum在锁定状态中。
@@ -62,4 +61,12 @@
     `export PATH=$PAHT:<PATH 1>:<PATH 2>:<PATH 3>:--------:< PATH n >`
 
     `source /etc/profile`
+    
+- 清理 Mac 微信缓存
+
+    ```sh
+    rm -f /Users/${用户名}/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/${一串英文数字}/Message/MessageTemp/*
+    ```
+
+    
 
