@@ -70,3 +70,9 @@
 
     
 
+- ssh登录失败
+
+    报错: `no matching host key type found. Their offer: ssh-dss`
+
+    解决方法: `ssh -oHostKeyAlgorithms=+ssh-dss <username>@<ip>`
+
