@@ -124,9 +124,13 @@
   ```
 
   - configuration `~/.config/youtube-dl/config`
+> 2022.01.09 update: 貌似被限速了
+>
+> 改用[yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-    
-  
+
+​    
+
 - [you-get](https://github.com/soimort/you-get) download media contents from web
 
   ```shell
