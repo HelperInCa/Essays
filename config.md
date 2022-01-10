@@ -126,7 +126,7 @@
   - configuration `~/.config/youtube-dl/config`
 > 2022.01.09 update: 貌似被限速了
 >
-> 改用[yt-dlp](https://github.com/yt-dlp/yt-dlp)
+> 改用[yt-dlp](https://github.com/yt-dlp/yt-dlp): fork from `youtube-dl`
 
 
 ​    
