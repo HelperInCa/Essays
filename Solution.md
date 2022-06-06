@@ -76,3 +76,18 @@
 
     解决方法: `ssh -oHostKeyAlgorithms=+ssh-dss <username>@<ip>`
 
+- 关闭 Chrome 更新
+
+    *建议备份*
+
+    > 保存在~/Downloads/
+
+    1. 关闭 Chrome
+
+    2. ```shel
+        sudo rm -rf /Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle
+        ```
+
+    3. 打开Chrome,点击`帮助`->`关于`,查看是否无法更新
+
+        
