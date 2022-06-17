@@ -46,6 +46,8 @@
 
 - [Text Scanner](https://textscanner.gitbook.io/project/) OCR. 手写体, 表格, 身份证, 发票等识别.  
 
+- [Mos](https://github.com/Caldis/Mos) Mac 鼠标平滑滚动,反转
+
 # 开发
 
 ## 命令行
