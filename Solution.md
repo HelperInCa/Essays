@@ -91,3 +91,7 @@
     3. 打开Chrome,点击`帮助`->`关于`,查看是否无法更新
 
         
+    
+- homebrew 换国内源
+
+    [1](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
