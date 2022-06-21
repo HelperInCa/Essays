@@ -92,6 +92,7 @@
 
         
     
-- homebrew 换国内源
+- homebrew 换国内源(包括复原)
 
     [1](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
+
