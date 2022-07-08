@@ -84,7 +84,7 @@
 
     1. 关闭 Chrome
 
-    2. ```shel
+    2. ```shell
         sudo rm -rf /Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle
         ```
 
@@ -96,3 +96,15 @@
 
     [1](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
 
+- vim 粘贴时格式混乱
+
+    [缩进导致](https://blog.51cto.com/u_15060513/4627037)
+
+    ```shell
+    #进入普通模式
+    :set paste
+    #粘贴
+    :set nopaste
+    ```
+
+    
