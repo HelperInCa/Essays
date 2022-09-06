@@ -48,6 +48,8 @@
 
 - [Mos](https://github.com/Caldis/Mos) Mac 鼠标平滑滚动,反转
 
+- [柠檬清理](https://lemon.qq.com) Mac 垃圾清理([开源](https://github.com/Tencent/lemon-cleaner))
+
 # 开发
 
 ## 命令行
