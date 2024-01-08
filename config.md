@@ -26,7 +26,7 @@
 
 - [Background music](https://github.com/kyleneideck/BackgroundMusic) 独立调节各App音量, 录音
 
-- [Keka](https://www.keka.io/) 免费, 解压缩
+- [Keka](https://www.keka.io/) ~~免费, 解压缩~~ 收费
 
 - [HandShaker](http://www.smartisan.com/apps/handshaker) Mac与安卓手机互联
   

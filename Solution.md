@@ -108,3 +108,16 @@
     ```
 
     
+
+- ERR_PROXY_CONNECTION_FAILED
+
+    [参考](https://zhuanlan.zhihu.com/p/406660822)
+
+    - 刷新dns缓存
+
+    ```shell
+    sudo killall -HUP mDNSResponder
+    sudo dscacheutil -flushcache
+    ```
+
+    
